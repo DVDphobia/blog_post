@@ -1,6 +1,3 @@
-
-
-
 ---
 title: Is Gemini CLI the Future of AI Coding? A Deep Dive into a Terminal-First AI Agent
 date: 2025-08-20
