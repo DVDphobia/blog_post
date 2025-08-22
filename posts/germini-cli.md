@@ -1,20 +1,16 @@
 
------
-
-### Title: Is Gemini CLI the Future of AI Coding? A Deep Dive into a Terminal-First AI Agent
 
 
+---
+title: Is Gemini CLI the Future of AI Coding? A Deep Dive into a Terminal-First AI Agent
 date: 2025-08-20
+excerpt: How I designed and built a clean black & white portfolio site.
 
-
-**Introduction: The Next Evolution of AI in Coding**
-
+---
+[![Germini_CLI_PIC](https://techcrunch.com/wp-content/uploads/2025/06/Gemini_CLI_Hero_Final.png)](https://github.com/google-gemini/gemini-cli)
 The landscape of software development is undergoing a revolution, driven by AI. We've moved beyond simple autocomplete tools and are now on the cusp of a new era of "agentic AI" — tools that can not only suggest code but can understand an entire project, plan complex tasks, and act on them. While tools like GitHub Copilot and Cursor have integrated AI into our IDEs, Google's Gemini CLI represents a powerful leap forward by bringing this agentic power directly to the developer's most familiar environment: the command line.
 
 The question is, does this terminal-first approach position Gemini CLI as the future of AI coding?
-
------
-
 ### What Makes Gemini CLI a Game-Changer?
 
 Gemini CLI isn't just another code-completion tool; it's an AI agent with unique features that enable a more powerful, project-aware workflow.
